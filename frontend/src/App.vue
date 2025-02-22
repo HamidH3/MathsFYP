@@ -10,6 +10,9 @@
             <router-link to="/" class="nav-link">Home</router-link>
           </li>
           <li class="nav-item">
+            <router-link to="/game" class="nav-link">Game</router-link>
+          </li>
+          <li class="nav-item">
             <router-link to="/leaderboard" class="nav-link">Leaderboard</router-link>
           </li>
         </ul>
